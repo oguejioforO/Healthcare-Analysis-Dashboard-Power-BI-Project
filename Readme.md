@@ -88,7 +88,7 @@ and manage costs more effectively.
 
 ## Preview
 
-![Dashboard Preview](./Visual/HC.png)
+![Dashboard Preview](./Visual/HC.PNG)
 
 ---
 
