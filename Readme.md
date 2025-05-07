@@ -88,14 +88,13 @@ and manage costs more effectively.
 
 ## Preview
 
-![Dashboard Preview](./Visual/healthcareAnalysisDataset.png)
+![Dashboard Preview](./Visual/HC.png)
 
 ---
 
 ## Connect
+Let's connect! 👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/onyinye-oguejiofor-e)
 
-Let’s collaborate on data-driven solutions!  
-![Linkedin](www.linkedin.com/in/onyinye-oguejiofor-e) 
 
 
 ---
